@@ -1,4 +1,5 @@
 <?php
+//tdfyjtd
 
 //PEGAR VARIÁVEIS VINDAS NA URL
 
@@ -23,7 +24,7 @@ if($operador == "somar"){
     $resultado = $numero1 * $numero2;
 
 }elseif($operador == "dividir"){
-    $resultado = $numero1 / $numero2;
+    $resultado = $numero1 / $numero2
 
 }
 
