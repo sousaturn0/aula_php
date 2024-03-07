@@ -1,5 +1,5 @@
 <?php
-//tdfyjtd
+//tdfyjtdpppp
 
 //PEGAR VARIÁVEIS VINDAS NA URL
 
